@@ -1,1 +1,2 @@
-jdfdknkwnddslm
+def video():
+    pass
